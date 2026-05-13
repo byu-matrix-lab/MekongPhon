@@ -2,6 +2,8 @@
 
 A large-scale parallel IPA corpus for Lao and Khmer, along with training code for seq2seq transliteration models.
 
+Paper: https://lrec.elra.info/lrec2026-main-129
+
 ## Directories
 
 - `data/` — lexicons, OPUS download scripts, train/eval splits, and qualitative samples
