@@ -13,7 +13,7 @@ Paper: https://lrec.elra.info/lrec2026-main-129
 
 ## Citation
 
-If you use this work, please cite (temporary citation before publication in May 2026):
+If you use this work, please cite:
 
 ```
 @inproceedings{shurtz-etal-2026-mekongphon,
